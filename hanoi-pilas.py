@@ -16,7 +16,7 @@ movimiento = 1
     
     ES UNA RESTRICCIÓN/LIMITACIÓN DE PYTHON
 '''
-discos = 6
+discos = 4
 
 minMov = pow(2, discos) - 1
 
